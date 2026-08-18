@@ -55,6 +55,7 @@ const App: React.FC = () => {
           parsed.contact?.email?.includes('tobibabalola02') ||
           parsed.contact?.email?.includes('ibraheemtaofi') ||
           parsed.contact?.email?.includes('TaofiqIbrahim888') ||
+          parsed.contact?.email?.includes('adewaletokosi1') ||
           !parsed.name.toUpperCase().includes('ADEWALE') ||
           !parsed.experience?.some((exp: any) => exp.company?.toLowerCase().includes('elite horizon'))
         ) {

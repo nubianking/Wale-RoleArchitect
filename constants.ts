@@ -4,7 +4,7 @@ export const BASE_RESUME: ResumeData = {
   name: "ADEWALE TOKOSI",
   contact: {
     location: "West Haven, CT 06516",
-    email: "adewaletokosi1@gmail.com",
+    email: "AdewaleTokosi@proton.me",
     phone: "(475) 321-7100",
     linkedin: "https://www.linkedin.com/in/adewale-tokosi"
   },
